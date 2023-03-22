@@ -1,6 +1,9 @@
 body {
     height: 1000vh;
     background-color: black;
+    margin: 0;
+    padding: 0
+
 }
 .container{
     width: 100%;
